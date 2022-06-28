@@ -20,5 +20,8 @@ The script should display the number in base 10, followed by a new line)
 Do not print oo; Your script file should contain maximum 64 characters)
 13. Write a script that prints a number with two decimal places, followed by a new line.
 (The number will be stored in the environment variable NUM.)
-
+14. Write a script that converts a number from base 10 to base 16.
+15. Everyone is a proponent of strong encryption
+16. The eggs of the brood need to be an odd number
+17. I'm an instant star. Just add water and stir.
 
